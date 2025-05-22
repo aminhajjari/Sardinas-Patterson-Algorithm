@@ -21,6 +21,13 @@ The Sardinas-Patterson algorithm is used to test the unique decodability of vari
 - Python 3.x  
 - No external libraries required *(or list them if used)*
 
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+🙋‍♂️ Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+
 ### Installation
 
 Clone the repository:
@@ -32,7 +39,3 @@ cd sardinas-patterson
 
 
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-🙋‍♂️ Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
