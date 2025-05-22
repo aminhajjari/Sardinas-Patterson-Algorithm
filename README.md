@@ -28,3 +28,11 @@ Clone the repository:
 ```bash
 git clone https://github.com/aminhajjari/sardinas-patterson.git
 cd sardinas-patterson
+
+
+
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+🙋‍♂️ Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
